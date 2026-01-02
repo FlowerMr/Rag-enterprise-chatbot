@@ -1,6 +1,7 @@
 # 🧠 Enterprise RAG Chatbot (Local & Secure)
 
-This project implements a **production-style Retrieval-Augmented Generation (RAG) system**
+This project implements a **production-style Retrieval-Augmented Generation (RAG) system**<img width="2752" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/f383241b-7c0e-4b86-bf9b-aa46160baa39" />
+
 designed for internal enterprise knowledge bases (HR, IT, Finance).
 
 It focuses on **security, role-awareness, and scalability**, not demo-level chatbots.
